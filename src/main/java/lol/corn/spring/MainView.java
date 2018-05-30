@@ -1,5 +1,6 @@
 package lol.corn.spring;
 
+import com.vaadin.flow.component.UI;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import com.vaadin.flow.component.button.Button;
